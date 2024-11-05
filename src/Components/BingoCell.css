@@ -1,0 +1,20 @@
+.bingo-cell{
+   display: flex;
+   justify-content: center;
+   height: 50px;
+   align-items: center;
+   border: 1px solid #000;
+   cursor: pointer;
+   background-color: #fff;
+   border-radius: 1vh;
+   box-shadow: 2px 3px 5px -2px;
+   
+  
+   background-color: #f7f6f6;
+   font-size: 3.1vh;
+}
+
+
+.bingo-cell.marked{
+    background-color: #00ff00;
+}

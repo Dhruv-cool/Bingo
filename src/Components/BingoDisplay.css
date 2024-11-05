@@ -1,0 +1,9 @@
+.Bingo-display{
+    border: 2px solid;
+    width: 21rem;
+   
+    margin: 2rem auto;
+}
+.display_size{
+    font-size: 4vh;
+}
